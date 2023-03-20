@@ -144,12 +144,14 @@ main a:hover {
     content: '\00A0\1F517';
 }
 
-picture {
+img {
+    width: 100%;
     display: block;
     text-align: center;
 }
 
 #bugdroid {
+    max-width: 350px;
     display: block;
     margin: auto;
 }
