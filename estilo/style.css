@@ -82,7 +82,7 @@ nav > a:hover {
 
 main {
     background-color: white;
-    min-width: 300px;
+    min-width: 260px;
     max-width: 1000px;
     margin: auto;
     margin-bottom: 30px;
@@ -146,8 +146,6 @@ main a:hover {
 
 img {
     width: 100%;
-    display: block;
-    text-align: center;
 }
 
 #bugdroid {
